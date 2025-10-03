@@ -18,7 +18,19 @@ This project predicts Walmart’s weekly sales using multiple forecasting models
 Prophet outperformed other models with the lowest error, making it the most suitable for retail sales forecasting.
 
 ## Sample Visuals
-*(Add plots here once uploaded in images/)*
+## Forecast Results
+
+### SARIMAX Forecast
+![SARIMAX Forecast](images/sarimax_forecast.png)
+
+### Prophet Forecast
+![Prophet Forecast](images/prophet_forecast.png)
+
+### RandomForest Forecast
+![RandomForest Forecast](images/randomforest_forecast.png)
+
+### Model Comparison
+![Model Comparison](images/model_comparison.png)
 
 ## Conclusion
 - Prophet achieved the best accuracy (MAPE ≈ 2%).  

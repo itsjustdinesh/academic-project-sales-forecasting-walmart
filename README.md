@@ -1,6 +1,8 @@
 # Academic Project – Walmart Sales Forecasting
+This project predicts Walmart’s weekly sales using multiple forecasting models as part of my academic portfolio.
+Focuses on sales forecasting for Walmart stores using historical weekly sales data. The goal is to analyze key factors affecting sales, perform feature engineering, and build predictive models to forecast future sales.
 
-This project predicts Walmart’s weekly sales using multiple forecasting models as part of my academic portfolio.  
+demonstrates data cleaning, exploratory data analysis (EDA), time-series forecasting, and machine learning regression models.
 
 ## Models Used
 - SARIMAX (Statistical model)

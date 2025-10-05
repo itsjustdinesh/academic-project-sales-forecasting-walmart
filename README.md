@@ -37,5 +37,7 @@ Prophet outperformed other models with the lowest error, making it the most suit
 ## Conclusion
 - Prophet achieved the best accuracy (MAPE ≈ 2%).  
 - RandomForest worked well as a baseline ML model.  
-- SARIMAX struggled with complex seasonality.  
+- SARIMAX struggled with complex seasonality.
+
+This project highlights how data analytics can be used to understand and improve academic performance. The analysis revealed that study hours, attendance, and assignment submission rates strongly influence final exam outcomes. Regression and clustering models provided actionable insights into student performance patterns, helping identify high and low performers. Overall, the project demonstrates the power of data-driven decision-making in education.
 
